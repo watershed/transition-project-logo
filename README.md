@@ -4,7 +4,7 @@ TRANSITion is a community history project documenting the use of what was until 
 
 ![Transition: from fields to Ford and beyond logo](https://github.com/watershed/transition-project-logo/blob/master/transition-logo_1000px_rgb.png)
 
-The strapline, ‘From fields to Ford and beyond’, is to be included in the logo at all times.
+The strapline, ‘From fields to Ford & beyond’, is to be included in the logo at all times.
 
 ## Included in this repository
 
@@ -28,3 +28,6 @@ The PNG files above have _transparent_ backgrounds and are strongly preferred to
 
 * **transition-logo_2000px_rgb.jpg**: opaque _white_ background, do not reproduce in print larger than 170mm wide
 
+- - -
+
+**[Download the zip file](https://github.com/watershed/transition-project-logo/archive/master.zip)**
