@@ -22,7 +22,7 @@ These have _transparent_ backgrounds, may be scaled to any size, and are ideal f
 Ideal for use in Microsoft Office applications or, more generally, on screen:
 
 * **transition-logo_2000px_rgb.png**: do not reproduce in print larger than 170mm wide
-* **transition-logo_1000px_rgb.png**: half the resolution and one third the file size of the 2000 pixels wide version, do not reproduce in print larger than 85mm wide
+* **transition-logo_1000px_rgb.png**: half the resolution and one third the file size of the 2,000 pixels wide version, do not reproduce in print larger than 85mm wide
 
 The PNG files above have _transparent_ backgrounds and are strongly preferred to JPEG as a logo image file format, but sometimes people insist on a JPEG. For this reason, also provided is:
 
@@ -30,4 +30,4 @@ The PNG files above have _transparent_ backgrounds and are strongly preferred to
 
 - - -
 
-**[Download the zip file](https://github.com/watershed/transition-project-logo/archive/master.zip)**
+**[Download the logo artwork zip file](https://github.com/watershed/transition-project-logo/archive/master.zip)**
