@@ -6,7 +6,7 @@ TRANSITion is a community history project documenting the use of what was until 
 
 The strapline, ‘From fields to Ford & beyond’, is to be included in the logo at all times.
 
-## Included in this repository
+## 5 logo files included in this repository
 
 The dimensions in the file names refer to the native width of the logo file in each case. All files include a blank area around the visible logo elements, which represents the _minimum_ area to be kept clear of other graphic elements.
 
